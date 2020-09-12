@@ -1,0 +1,50 @@
+#p{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+#interface{
+    /*definier a largura da página*/
+    width: 1680px;
+    /*definir a altura da página*/
+    height: 1050px;
+    /*aqui definiremos a posição que a páginaocupará na tela, nesse casoestamops definindo que fique centralizado na tela*/
+    /*top: posição de cima*/
+    margin-top: 0;
+    /*left: posição de esquerda*/
+    margin-left: auto;
+    /*bottom; posição de baixo*/
+    margin-bottom: 0;
+    /*right: posição de direita*/
+    margin-right: auto;
+    /*aqui definiremos a cor de fundo da página*/
+    /*background-color: #666;*/
+}
+#header{
+    width: 1680px;
+    height: 100px;
+    /*background-color: #00F;*/
+}
+#conteudo{
+    width: 1680px;
+    height: 500px;
+    /*background-color: #0F0;*/
+}
+#footer{
+    width: 1680px;
+    height: 100px;
+    /*background-color: #C3C;*/
+}
+#conteudo-left{
+    width: 840px;
+    height: 300px;
+    float: left;
+    /*background-color: #FF0;*/
+}
+#conteudo-right{
+    width: 840px;
+    height: 400px;
+    float: left;
+    /*background-color: #F00;*/
+}
+
